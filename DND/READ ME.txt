@@ -1,0 +1,12 @@
+Ensure you have the following modules installed:
+
+~ requests
+~ pandas
+~ sys
+~ os
+~ re
+~ random
+~ functools
+~ time
+
+Open and run DND_Story.py from Visual Studio Code to begin.
